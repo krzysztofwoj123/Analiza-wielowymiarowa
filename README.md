@@ -1,5 +1,6 @@
 # Analiza-wielowymiarowa
 *Autorzy: Krzysztof Wojtala, Krzysztof Hajderek*
+
 Wielowymiarowa analiza porównawcza 66 polskich miast na prawach powiatu pod kątem doboru optymalnej lokalizacji dla prywatnej placówki edukacyjnej (dane GUS, 2024).
 
 ### 1. Analiza wstępna
